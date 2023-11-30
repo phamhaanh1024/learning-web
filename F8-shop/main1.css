@@ -1,0 +1,26 @@
+/* /* .title{
+    color: red; 
+}
+< Các thẻ Title màu đỏ >
+
+.title.heading{
+    color: red;
+} 
+< Các thẻ cùng có heading màu đỏ > 
+
+*/
+
+
+/* 
+.box .title{
+    color: red;
+} 
+ < Selector bên phải là con Selector bên trái màu đỏ >
+ */ 
+
+ 
+/* *{
+    color: red;
+} 
+< Tất cả màu đỏ >
+*/
